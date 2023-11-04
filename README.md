@@ -1,4 +1,4 @@
-# EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
+# EX No.4.1. CUT SECTION OF SOLIDS
 ## DATE:
 ## AIM
 To create the solid model from given drawing and section the solid model
